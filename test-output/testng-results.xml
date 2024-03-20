@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Visibility of Application Logo = true]]>
+    </line>
+    <line>
+      <![CDATA[Application Label = Products]]>
+    </line>
+    <line>
+      <![CDATA[Visibility of Red Robo Image = true]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-03-15T00:58:51 IST" name="Default suite" finished-at="2024-03-15T00:59:13 IST" duration-ms="22043">
+    <groups>
+    </groups>
+    <test started-at="2024-03-15T00:58:51 IST" name="Default test" finished-at="2024-03-15T00:59:13 IST" duration-ms="22043">
+      <class name="testCases.InventoryPageTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:testCases.InventoryPageTest@7ef82753]" started-at="2024-03-15T00:58:51 IST" name="SetUp" finished-at="2024-03-15T00:58:59 IST" duration-ms="7854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="VerifyApplicationLogoTest()[pri:0, instance:testCases.InventoryPageTest@7ef82753]" started-at="2024-03-15T00:58:59 IST" name="VerifyApplicationLogoTest" finished-at="2024-03-15T00:58:59 IST" duration-ms="97" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Visibility of Application Logo = true]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyApplicationLogoTest -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:testCases.InventoryPageTest@7ef82753]" started-at="2024-03-15T00:58:59 IST" name="CloseBrowser" finished-at="2024-03-15T00:58:59 IST" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:testCases.InventoryPageTest@7ef82753]" started-at="2024-03-15T00:58:59 IST" name="SetUp" finished-at="2024-03-15T00:59:04 IST" duration-ms="4397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="VerifyProductLabelTest()[pri:0, instance:testCases.InventoryPageTest@7ef82753]" started-at="2024-03-15T00:59:04 IST" name="VerifyProductLabelTest" finished-at="2024-03-15T00:59:04 IST" duration-ms="49" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Label = Products]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyProductLabelTest -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:testCases.InventoryPageTest@7ef82753]" started-at="2024-03-15T00:59:04 IST" name="CloseBrowser" finished-at="2024-03-15T00:59:04 IST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:testCases.InventoryPageTest@7ef82753]" started-at="2024-03-15T00:59:04 IST" name="SetUp" finished-at="2024-03-15T00:59:08 IST" duration-ms="4363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="VerifyRedRoboImageTest()[pri:0, instance:testCases.InventoryPageTest@7ef82753]" started-at="2024-03-15T00:59:08 IST" name="VerifyRedRoboImageTest" finished-at="2024-03-15T00:59:08 IST" duration-ms="72" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Visibility of Red Robo Image = true]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyRedRoboImageTest -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:testCases.InventoryPageTest@7ef82753]" started-at="2024-03-15T00:59:08 IST" name="CloseBrowser" finished-at="2024-03-15T00:59:09 IST" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:testCases.InventoryPageTest@7ef82753]" started-at="2024-03-15T00:59:09 IST" name="SetUp" finished-at="2024-03-15T00:59:13 IST" duration-ms="4323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="VerifyShoppingCartIconTest()[pri:0, instance:testCases.InventoryPageTest@7ef82753]" started-at="2024-03-15T00:59:13 IST" name="VerifyShoppingCartIconTest" finished-at="2024-03-15T00:59:13 IST" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyShoppingCartIconTest -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:testCases.InventoryPageTest@7ef82753]" started-at="2024-03-15T00:59:13 IST" name="CloseBrowser" finished-at="2024-03-15T00:59:13 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- testCases.InventoryPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
